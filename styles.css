@@ -32,13 +32,14 @@ main{
     padding-bottom: 10px;
     width: 300px;
 }
-img{
+/*img{
     width: 100%;
     border-radius: 10px 10px 0 0;
-}
-.img-desktop{
+}*/
+/*.img-desktop{
     display: none;
 }
+*/
 header{
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -110,14 +111,14 @@ button:hover{
     img{
      width: 250px;
     }
-    .img-mobile{
+   /* .img-mobile{
         display: none;
-    }
-    .img-desktop{
+    } */
+   /* .img-desktop{
         display: unset;
         border-radius: unset;
         border-radius: 10px 0 0 10px;
-    }
+    }*/
 
     #product-inf{
         width: 300px;

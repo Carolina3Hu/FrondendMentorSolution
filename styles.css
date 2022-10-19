@@ -33,7 +33,6 @@ main{
     width: 300px;
 }
 img{
-    width: 100%;
     border-radius: 10px 10px 0 0;
 }
 
@@ -92,7 +91,7 @@ button:hover{
 }
 
 /*Mobile: 375px, Desktop: 1440px*/
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 650px) {
     body{
         max-width: 1440px;
         

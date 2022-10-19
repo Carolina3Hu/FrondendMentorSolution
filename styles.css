@@ -33,6 +33,7 @@ main{
     width: 300px;
 }
 img{
+    width: 300px;
     border-radius: 10px 10px 0 0;
 }
 
@@ -96,9 +97,9 @@ button:hover{
         max-width: 1440px;
         
     }
-    main{
+main{
         width: 500px;
-        height: 414px;
+        height: 375px;
         margin: 7% auto;
         display: flex;
         flex-direction: row;   

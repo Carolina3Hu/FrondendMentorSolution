@@ -77,11 +77,8 @@ border-radius: 5px;
 color: var(--white-color);
 text-align: center;
 }
-button img{
-    height: 16px;
-    width: 16px;
+svg{
     margin-right: 10px;
-    object-fit: cover;
 }
 a{
     text-decoration: none;

@@ -110,6 +110,7 @@ button:hover{
     }
     #product-inf{
         width: 276px;
+        height: 414px;
         object-fit: cover;
     }
     button{

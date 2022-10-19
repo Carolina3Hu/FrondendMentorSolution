@@ -98,7 +98,7 @@ button:hover{
     }
     main{
         width: 500px;
-        height: 375px;
+        height: 414px;
         margin: 7% auto;
         display: flex;
         flex-direction: row;   
@@ -109,7 +109,7 @@ button:hover{
      border-radius: 10px 0 0 10px;
     }
     #product-inf{
-        width: 300px;
+        width: 276px;
         object-fit: cover;
     }
     button{

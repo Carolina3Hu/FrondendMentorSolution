@@ -32,7 +32,7 @@ main{
     padding-bottom: 10px;
     width: 300px;
 }
-source, img{
+img{
     width: 100%;
     border-radius: 10px 10px 0 0;
 }
@@ -108,18 +108,10 @@ button:hover{
         flex-direction: row;   
         justify-content: center;
     }
-    picture{
+    img{
      width: 250px;
+     border-radius: 10px 0 0 10px;
     }
-   /* .img-mobile{
-        display: none;
-    } */
-    picture{
-        display: unset;
-        border-radius: unset;
-        border-radius: 10px 0 0 10px;
-    }
-
     #product-inf{
         width: 300px;
         object-fit: cover;
